@@ -1,3 +1,9 @@
 {
-  "issueKeyTestcaseValues": {}
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://tm-demo.uipath.com/",
+  "defaultProject": {
+    "id": "f834d6c8-4967-4526-b1dc-08d869a44434",
+    "name": "Tameem Saieed",
+    "key": "TAS"
+  }
 }
