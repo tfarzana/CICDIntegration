@@ -60,11 +60,6 @@
         "editingStatus": "Publishable",
         "testCaseId": "03a34b34-2955-4b3b-91e0-c9732465d6f8",
         "fileName": "TestCase2.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "2fedafe9-09a7-43be-94c5-2afba35e328c",
-        "fileName": "TestCase 6.xaml"
       }
     ],
     "modernBehavior": false
@@ -98,12 +93,6 @@
     {
       "filePath": "TestCase2.xaml",
       "uniqueId": "03a34b34-2955-4b3b-91e0-c9732465d6f8",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "TestCase 6.xaml",
-      "uniqueId": "2fedafe9-09a7-43be-94c5-2afba35e328c",
       "input": [],
       "output": []
     }
