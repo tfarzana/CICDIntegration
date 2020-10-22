@@ -55,6 +55,11 @@
         "editingStatus": "Publishable",
         "testCaseId": "03a34b34-2955-4b3b-91e0-c9732465d6f8",
         "fileName": "TestCase2.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "493ceaa9-85f0-47d9-94bb-05930befd6b7",
+        "fileName": "TestCase5.xaml"
       }
     ],
     "modernBehavior": false
