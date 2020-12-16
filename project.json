@@ -37,60 +37,19 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "Publishable",
-        "testCaseId": "db084b1f-1917-4d5f-9961-b6f04bca4d64",
-        "fileName": "TestCase1.xaml"
+        "editingStatus": "InProgress",
+        "testCaseId": "88bbc7fd-a526-4968-a62c-b688167c3ef7",
+        "fileName": "TestCase01.xaml"
       },
       {
-        "editingStatus": "Publishable",
-        "testCaseId": "f8803b9e-119d-4ea3-bfc8-d6a9fca04892",
-        "fileName": "TestCase4.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "e76fda5e-957a-4b78-9fae-76ee72eeacec",
-        "fileName": "TestCase3.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "03a34b34-2955-4b3b-91e0-c9732465d6f8",
-        "fileName": "TestCase2.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "493ceaa9-85f0-47d9-94bb-05930befd6b7",
-        "fileName": "TestCase5.xaml"
+        "editingStatus": "InProgress",
+        "testCaseId": "3deda005-9fbe-4e58-a833-a5d8f69aba36",
+        "fileName": "TestCase02.xaml"
       }
     ],
     "modernBehavior": false
   },
   "expressionLanguage": "VisualBasic",
-  "entryPoints": [
-    {
-      "filePath": "TestCase1.xaml",
-      "uniqueId": "db084b1f-1917-4d5f-9961-b6f04bca4d64",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "TestCase4.xaml",
-      "uniqueId": "f8803b9e-119d-4ea3-bfc8-d6a9fca04892",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "TestCase3.xaml",
-      "uniqueId": "e76fda5e-957a-4b78-9fae-76ee72eeacec",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "TestCase2.xaml",
-      "uniqueId": "03a34b34-2955-4b3b-91e0-c9732465d6f8",
-      "input": [],
-      "output": []
-    }
-  ],
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {}
