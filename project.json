@@ -11,7 +11,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "20.10.0.0",
-  "projectVersion": "1.6.0",
+  "projectVersion": "3.0.0",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
@@ -37,17 +37,17 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "88bbc7fd-a526-4968-a62c-b688167c3ef7",
         "fileName": "TestCase01.xaml"
       },
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "3deda005-9fbe-4e58-a833-a5d8f69aba36",
         "fileName": "TestCase02.xaml"
       },
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "3e24534a-979e-4d3a-9706-9cf654349bad",
         "fileName": "TestCase03.xaml"
       }
@@ -55,6 +55,26 @@
     "modernBehavior": false
   },
   "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "TestCase01.xaml",
+      "uniqueId": "88bbc7fd-a526-4968-a62c-b688167c3ef7",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "TestCase02.xaml",
+      "uniqueId": "3deda005-9fbe-4e58-a833-a5d8f69aba36",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "TestCase03.xaml",
+      "uniqueId": "3e24534a-979e-4d3a-9706-9cf654349bad",
+      "input": [],
+      "output": []
+    }
+  ],
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {}
